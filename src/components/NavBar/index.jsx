@@ -11,6 +11,7 @@ const NavBar = (props) => {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
+<div>hola</div>
     </div>
   )
 }
